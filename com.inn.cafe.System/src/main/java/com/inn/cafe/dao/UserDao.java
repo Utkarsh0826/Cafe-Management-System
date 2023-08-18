@@ -5,8 +5,6 @@ import com.inn.cafe.wrapper.UserWrapper;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.repository.query.Param;
-
-
 import javax.transaction.Transactional;
 import java.util.List;
 
